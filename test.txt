@@ -1,4 +1,0 @@
-scm commit 1
-build 2
-build 3 testing
-commit -2
